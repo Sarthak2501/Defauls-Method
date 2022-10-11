@@ -1,1 +1,1 @@
-# Defauls-Method
+# Defaults-Method
